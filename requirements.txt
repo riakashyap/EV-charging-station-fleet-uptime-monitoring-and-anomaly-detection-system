@@ -1,0 +1,24 @@
+# API & server
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# Data
+pandas==2.2.2
+numpy==1.26.4
+requests==2.31.0
+python-dotenv==1.0.1
+
+# Scheduling
+apscheduler==3.10.4
+
+# Anomaly detection / ML
+scikit-learn==1.4.2
+scipy==1.13.0
+
+# Database
+sqlalchemy==2.0.30
+aiosqlite==0.20.0
+
+# Testing
+pytest==8.2.0
+httpx==0.27.0
